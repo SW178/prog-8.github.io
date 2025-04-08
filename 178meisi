@@ -80,6 +80,7 @@
 </head>
 <body>
   <h1>名刺をつくろう！</h1>
+<h2>.ver.1.0</h2>
   <div class="form-container">
     <label>名前: <input type="text" id="name"></label>
     <label>ふりがな: <input type="text" id="furigana"></label>
